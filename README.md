@@ -31,6 +31,7 @@ The system is designed to operate efficiently in real-time environments, ensurin
 
 ## Applications
 - **Voice Assistants** for real-time conversations.
+- **Chatbots** A long term memory chatbots
 - **Personalized AI Companions** for children, elderly individuals, and those requiring consistent support.
 - **Interactive Learning Systems** that adapt to user needs over multiple sessions.
 
